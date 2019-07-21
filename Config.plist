@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>doge.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,}$</string>
+			<key>Title</key>
+			<string>dogedoge</string>
+			<key>URL</key>
+			<string>https://dogedoge.com/results?q={popclip text}</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>https://dogedoge.com/</string>
+			<key>Name</key>
+			<string>dogedoge</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>mailto:asphodele@qq.com</string>
+			<key>Name</key>
+			<string>dazkarieh</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Search the web using dogedoge.</string>
+	<key>Extension Identifier</key>
+	<string>com.doge.popclip.extension.doge-search</string>
+	<key>Extension Image File</key>
+	<string>doge.png</string>
+	<key>Extension Name</key>
+	<string>dogedoge</string>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
